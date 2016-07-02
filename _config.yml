@@ -1,0 +1,14 @@
+layout_spectrum: 0.32827915507368743
+typography_spectrum: 0.9014599148649722
+color:
+  brandStrength: 0.3914024871774018
+  lightness: 0.9725536403711885
+  saturation: 0.1740553241688758
+  rhythmicContrast: 0.2402860859874636
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: workfromhome
